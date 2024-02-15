@@ -4,7 +4,7 @@
     <div class="container py-5">
         <div class="row">
             <div class="col-12">
-                <h2 class="mb-5 text-center">Página principal</h2>
+                <h2 class="mb-5 text-center">Página principal de prueba</h2>
             </div>
         </div>
         <div class="row">
